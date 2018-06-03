@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="cell_background_color">#2196F3</color>
+    <color name="default_background_color">@color/cell_background_color</color>
+    <color name="purple_500">#9C27B0</color>
+    <color name="deep_purple_500">#673AB7</color>
+    <color name="indigo_500">#3F51B5</color>
+    <color name="blue_500">#2196F3</color>
+    <color name="cyan_500">#00BCD4</color>
+    <color name="light_blue_500">#03A9F4</color>
+    <color name="color_status">#FFAB40</color>
+    <color name="color_timing">#0000ff</color>
+    <color name="color_online_booking">#9C27B0</color>
+    <color name="color_railways_station">#D81B60</color>
+    <color name="color_help_line">#66BB6A</color>
+    <color name="color_contact_us">#303F9F</color>
+    <color name="color_share">#fff</color>
+</resources>

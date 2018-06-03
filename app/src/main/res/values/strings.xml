@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Kashmir Railways</string>
+    <string name="train_timing">ALL STATIONS TIMING</string>
+    <string name="progress_please_wait">Please Wait</string>
+    <string name="progress_loading">Loading......</string>
+
+    <string-array name="train_timing_list">
+        <item>ALL STATIONS TIMING</item>
+        <item>BANIHAL TO BARAMULLA</item>
+        <item>BARAMULLA TO BANIHAL</item>
+        <item>ANANTNAG TO BADGAM</item>
+        <item>ANANTNAG TO BARAMULLA</item>
+        <item>ANANTNAG TO BANIHAL</item>
+        <item>BANIHAL TO BADGAM</item>
+        <item>BADGAM TO BANIHAL</item>
+        <item>BADGAM TO BARAMULLA</item>
+    </string-array>
+
+</resources>

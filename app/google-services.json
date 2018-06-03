@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1024229714033",
+    "firebase_url": "https://app-sample-c6982.firebaseio.com",
+    "project_id": "app-sample-c6982",
+    "storage_bucket": "app-sample-c6982.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1024229714033:android:7e1c7aba0e5c88d2",
+        "android_client_info": {
+          "package_name": "limited.it.planet.traintimingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1024229714033-07cfvrrc4b8dlebieo16arjnud6pjv3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuy5_GgjXdRYbssWZRbR-I2ahftwk8fLI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

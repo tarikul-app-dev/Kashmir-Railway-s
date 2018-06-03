@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="limited.it.planet.traintimingapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/kashmir"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/kashmir"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".activity.MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".activity.BANITOBARAMActivity" />
+        <activity android:name=".activity.BARAMTOBANIActivity" />
+        <activity android:name=".activity.ANANTOBADGAMActivity" />
+        <activity android:name=".activity.ANANTOBARAMActivity" />
+        <activity android:name=".activity.ANANTOBANIActivity" />
+        <activity android:name=".activity.BANITOBADActivity" />
+        <activity android:name=".activity.BADToBANIActivity" />
+        <activity android:name=".activity.BADTOBARAMActivity" />
+        <activity android:name=".activity.AllStationTimingActivity" />
+        <activity
+            android:name=".activity.ListOfRailwaysStationActivity"
+            android:label="" />
+        <activity
+            android:name=".activity.HelpLineActivity"
+            android:label="" />
+        <activity
+            android:name=".activity.OnlineBookingActivity"
+            android:label="" />
+        <activity android:name=".activity.OtherTrainTimingActivity" />
+        <activity android:name=".activity.ContactUsActivity" />
+        <activity android:name=".activity.StatusActivity" android:label=""></activity>
+    </application>
+
+</manifest>
